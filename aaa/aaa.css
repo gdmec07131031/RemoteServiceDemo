@@ -1,0 +1,31 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+#maindiv{
+	width: 500px;
+	height: 500px;
+	margin: 100px auto;
+	border: solid 1px red;
+	font-style: 50px;
+	font-family: "隶书";
+	text-align: center;
+	background: black;
+	position: relative;
+}
+#startdiv{
+	margin-top: 150px;
+	color: white;
+}
+#startbtn{
+	width: 150px;
+	height: 50px;
+	border: solid 2px green;
+	color: green;
+	font-size: 20px;
+	font-family: "隶书";
+}
+#startbtn:hover{
+	color: blue;
+	border: solid 3px blue;
+}
